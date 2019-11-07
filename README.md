@@ -19,6 +19,7 @@ Import Random
 
 
 # PROGRAM
+![program](https://user-images.githubusercontent.com/56963083/68420200-6b1a5500-01ce-11ea-8cd4-a4a0c6c0dc94.PNG)
 
 
 # ALUR ALGORITMA PROGRAM
