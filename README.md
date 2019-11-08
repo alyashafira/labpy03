@@ -22,17 +22,25 @@ Hasil dari screenshot program yang telah dijalankan
 
       A. input
       Import Random
-      >>import fungsi lanjut yang dipanggil oleh statment import,
-      sedangkan random untuk pilihan. yang berarti menentukan suatu pilihan yang berarti menggabungkan dua operasi.
+        >>>import fungsi lanjut yang dipanggil oleh statment import,
+        sedangkan random untuk pilihan. yang berarti menentukan suatu pilihan yang berarti menggabungkan dua operasi.
 
       B. Proses
       Jumlah = int(input("Masukan Jumlah N:) ) 
-      >>merupakan fungsi untuk menghasilkan integer. 
+        >>>Merupakan fungsi untuk menghasilkan integer. 
       For i in range(jumlah) :
-      Merupakan fungsi yang menghasilkan list. Fungsi yang menciptakan sebuah list baru
+        >>>Merupakan fungsi yang menghasilkan list. Fungsi yang menciptakan sebuah list baru
       i=random.uniform(0.0, 0.5) 
-      >>digunakan untuk menampilkan bilangan float random dengan batas awal bilangan x, dan batas akhir bilangan y.
-C. Output LATIHAN 2
+        >>>Digunakan untuk menampilkan bilangan float random dengan batas awal bilangan x, dan batas akhir bilangan y.
+      
+      C. Output 
+      print("Data ke =: =>",i)
+        >>>Untuk Menampilkan Hasil dari sebuah proses yaitu dengan menampilkan i
+      print("SELESAI")
+        >>>Berfungsi untuk mencetak teks "Selesai" yang bertanda bahwa program sudah berakhir
+    
+
+# LATIHAN 2
 
 Hasil dari screenshot program yang telah dijalankan
 ![lat2](https://user-images.githubusercontent.com/56963083/68419990-eaf3ef80-01cd-11ea-809c-d5133cce6f14.PNG)
