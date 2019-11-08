@@ -43,7 +43,7 @@ Hasil dari screenshot program yang telah dijalankan
         sedangkan random untuk pilihan. yang berarti menentukan suatu pilihan yang berarti menggabungkan dua operasi.
 
       B. Proses
-      Jumlah = int(input("Masukan Jumlah N:) ) 
+      Jumlah = int(input("Masukan Jumlah N:)) 
         >>>Merupakan fungsi untuk menghasilkan integer. 
       For i in range(jumlah) :
         >>>Merupakan fungsi yang menghasilkan list. Fungsi yang menciptakan sebuah list baru
