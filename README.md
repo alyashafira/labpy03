@@ -3,6 +3,15 @@
 
 # LATIHAN 1
 
+             import random
+       jumlah = int(input("Masukan Nilai N :"))
+
+       for i in range(jumlah):
+            i=random.uniform(0.0,0.5)
+            print("Data ke =: =>",i)
+
+       print("SELESAI")
+   
 Hasil dari screenshot program yang telah dijalankan
 ![lat1](https://user-images.githubusercontent.com/56963083/68419799-846ed180-01cd-11ea-87aa-700ae87bf30c.PNG)
 
@@ -21,7 +30,7 @@ Hasil dari screenshot program yang telah dijalankan
    
       For i in range(jumlah) :
 
-      Merupakan fungsi
+      Merupakan fungsi yang menghasilkan list. 
 
    
 # LATIHAN 2
