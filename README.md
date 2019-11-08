@@ -1,7 +1,13 @@
 # labpy03 :octocat:
 **Nama  : Alya Shafira**
-**Nim   : (311910010) **
+**Nim   : 311910010 **
 **Kelas : TI.19.D.1**
+*Tugas Bahasa Pemrograman*
+*Tugas Praktikum 3*
+*LATIHAN 1*
+*LATIHAN 2*
+*PROGRAM*
+
 
 
 # LATIHAN 1
