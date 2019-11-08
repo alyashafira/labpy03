@@ -86,15 +86,31 @@ Hasil dari screenshot program yang telah dijalankan
 
 # PROGRAM
 ** Code Program **
-a=100000000
-for x in range(1, 9):
+      
+           a = 100000000
+     for x in range (1,9):
+           if(x>=1 and x<=2):
+               b=a*0
+               print("Laba Bulan Ke-",x," :",b)
+           if(x>=3 and x<=4):
+               c=a*0.1
+               print("Laba Bulan Ke-",x," :",c)
+           if(x>=5 and x<=7):
+               d=a*0.5
+               print("Laba Bulan Ke-",x," :",d)
+           if(x==8):
+               e=a*0.2
+               print("Laba Bulan Ke-",x," :",e)
+      total = b+b+c+c+d+d+d+e
+      print("\nTotal : ", total) 
 
 
-Hasil dari screenshot program yang telah ditebang jalankan
+Hasil dari screenshot program yang telah ditelah dijalankan
 ![program](https://user-images.githubusercontent.com/56963083/68420200-6b1a5500-01ce-11ea-8cd4-a4a0c6c0dc94.PNG)
 
 
 # ALUR ALGORITMA PROGRAM
+
       A. Input 
         a = 100000000
             ##"print"	= Fungsi "print()" berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (Layar).
