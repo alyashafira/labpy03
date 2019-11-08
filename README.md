@@ -21,7 +21,6 @@ Hasil dari screenshot program yang telah dijalankan
       A. input
       Import Random
       >>import fungsi lanjut yang dipanggil oleh statment import,
-     
       sedangkan random untuk pilihan. yang berarti menentukan suatu pilihan yang berarti menggabungkan dua operasi.
 
       B. Proses
@@ -30,8 +29,7 @@ Hasil dari screenshot program yang telah dijalankan
    
       For i in range(jumlah) :
 
-      Merupakan fungsi yang menghasilkan list. 
-
+      Merupakan fungsi yang menghasilkan list. Fungsi yang menciptakan sebuah list baru
    
 # LATIHAN 2
 
