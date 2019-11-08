@@ -1,7 +1,7 @@
 # labpy03 :octocat:
 **Nama  : Alya Shafira**
 
-**Nim   : 311910010 **
+**Nim   : 311910010**
 
 **Kelas : TI.19.D.1**
 
