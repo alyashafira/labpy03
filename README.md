@@ -3,6 +3,8 @@
 
 # LATIHAN 1
 
+Code program
+
              import random
        jumlah = int(input("Masukan Nilai N :"))
 
@@ -26,12 +28,11 @@ Hasil dari screenshot program yang telah dijalankan
       B. Proses
       Jumlah = int(input("Masukan Jumlah N:) ) 
       >>merupakan fungsi untuk menghasilkan integer. 
-   
       For i in range(jumlah) :
-
       Merupakan fungsi yang menghasilkan list. Fungsi yang menciptakan sebuah list baru
-   
-# LATIHAN 2
+      i=random.uniform(0.0, 0.5) 
+      >>digunakan untuk menampilkan bilangan float random dengan batas awal bilangan x, dan batas akhir bilangan y.
+C. Output LATIHAN 2
 
 Hasil dari screenshot program yang telah dijalankan
 ![lat2](https://user-images.githubusercontent.com/56963083/68419990-eaf3ef80-01cd-11ea-809c-d5133cce6f14.PNG)
