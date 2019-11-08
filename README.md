@@ -65,7 +65,22 @@ Hasil dari screenshot program yang telah dijalankan
         >>> Berfungsi untuk mencetak teks "program untuk menampilkan bilangan terbesar n bilangan yang diinput kan") 
       max = 0
         >>> Berfungsi bulid-in untuk mencari nilai tertinggi.Fungsi ini dapat diberikan sebuah parameter berupa angka.
-B. Proses
+      B. Proses
+      while True:
+        a=int(input("Masukan bilangan :"))
+        if max < int(a):
+          max = int(a)
+        if a == 0:
+          break
+           
+           ## "while"	: disebut uncounted loop (perulangan yang tak terhitung),
+           ## "int"	: berfungsi mengkonversi bilangan maupun string angka menjadi bilangan bulat (integer).
+           ## "if"	: Bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan.
+           ## "break"	: fungsi yang menghentikan operasi dibawahnya jika suatu kondisi yang ditentukan telah tercapai.
+       
+      C. Output
+      print("Bilangan Terbesar Adalah: ",max)
+          >>>Untuk menampilkan Hasil dengan mencetak bilangan terbesar yaitu max
       
 
 
