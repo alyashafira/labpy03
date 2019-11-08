@@ -1,4 +1,7 @@
 # labpy03 :octocat:
+**Nama  : Alya Shafira**
+**Nim   : (311910010) **
+**Kelas : TI.19.D.1**
 
 
 # LATIHAN 1
@@ -60,6 +63,7 @@ Hasil dari screenshot program yang telah dijalankan
 
 
 # ALUR ALGORITMA LATIHAN 2
+
       A. Input
       print("program untuk menampilkan bilangan terbesar dari n bilangan yang diinputkan")
         >>> Berfungsi untuk mencetak teks "program untuk menampilkan bilangan terbesar n bilangan yang diinput kan") 
@@ -87,7 +91,7 @@ Hasil dari screenshot program yang telah dijalankan
 # PROGRAM
 ** Code Program **
       
-           a = 100000000
+     a = 100000000
      for x in range (1,9):
            if(x>=1 and x<=2):
                b=a*0
@@ -139,6 +143,10 @@ Hasil dari screenshot program yang telah ditelah dijalankan
         print("\nTotal : ", total)
           ##"\nTotal" = Membuat garis baru, dan menampilkan total hasil dari apa yang kita diinginkan
 
+
+**Selesai**
+
+Semoga Berkah dan Bermanfaat 
 
 
  
