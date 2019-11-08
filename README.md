@@ -3,7 +3,7 @@
 
 # LATIHAN 1
 
-Code program
+** Code program **
 
              import random
        jumlah = int(input("Masukan Nilai N :"))
@@ -20,7 +20,7 @@ Hasil dari screenshot program yang telah dijalankan
 
 # ALUR ALGORITMA LATIHAN 1
 
-      A. input
+      A. Input
       Import Random
         >>>import fungsi lanjut yang dipanggil oleh statment import,
         sedangkan random untuk pilihan. yang berarti menentukan suatu pilihan yang berarti menggabungkan dua operasi.
@@ -41,12 +41,32 @@ Hasil dari screenshot program yang telah dijalankan
     
 
 # LATIHAN 2
+** Code Program **
+
+     print("program untuk menampilkan bilangan terbesar dari n bilangan yang diinputkan")
+
+     max = 0
+     while True:
+          a=int(input("Masukan Bilangan :"))
+          if max < int (a):
+          max = int(a)
+          if a == 0:
+              break
+     print("Bilangan Terbesar adalah = :",max)
+
 
 Hasil dari screenshot program yang telah dijalankan
 ![lat2](https://user-images.githubusercontent.com/56963083/68419990-eaf3ef80-01cd-11ea-809c-d5133cce6f14.PNG)
 
 
 # ALUR ALGORITMA LATIHAN 2
+      A. Input
+      print("program untuk menampilkan bilangan terbesar dari n bilangan yang diinputkan")
+        >>> Berfungsi untuk mencetak teks "program untuk menampilkan bilangan terbesar n bilangan yang diinput kan") 
+      max = 0
+        >>> Berfungsi bulid-in untuk mencari nilai tertinggi.Fungsi ini dapat diberikan sebuah parameter berupa angka.
+B. Proses
+      
 
 
 # PROGRAM
