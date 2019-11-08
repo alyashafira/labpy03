@@ -74,8 +74,8 @@ Hasil dari screenshot program yang telah dijalankan
           break
            
            ## "while"	: disebut uncounted loop (perulangan yang tak terhitung),
-           ## "int"	  : berfungsi mengkonversi bilangan maupun string angka menjadi bilangan bulat (integer).
-           ## "if"	  : Bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan.
+           ## "int"	=berfungsi mengkonversi bilangan maupun string angka menjadi bilangan bulat (integer).
+           ## "if"	= Bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan.
            ## "break"	: fungsi yang menghentikan operasi dibawahnya jika suatu kondisi yang ditentukan telah tercapai.
        
       C. Output
@@ -85,6 +85,9 @@ Hasil dari screenshot program yang telah dijalankan
 
 
 # PROGRAM
+** Code Program **
+a=1
+
 
 Hasil dari screenshot program yang telah ditebang jalankan
 ![program](https://user-images.githubusercontent.com/56963083/68420200-6b1a5500-01ce-11ea-8cd4-a4a0c6c0dc94.PNG)
@@ -117,7 +120,7 @@ Hasil dari screenshot program yang telah ditebang jalankan
       C.Output
       total = b+b+c+c+d+d+d+e
         print("\nTotal : ", total)
-          ##"\nTotal" = Membuat garis baru, dan menampilkan total hasil dari apa yang kita inginkan.
+          ##"\nTotal" = Membuat garis baru, dan menampilkan total hasil dari apa yang kita diinginkan
 
 
 
