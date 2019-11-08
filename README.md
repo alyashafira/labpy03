@@ -1,12 +1,19 @@
 # labpy03 :octocat:
 **Nama  : Alya Shafira**
+
 **Nim   : 311910010 **
 **Kelas : TI.19.D.1**
+
 *Tugas Bahasa Pemrograman*
+
 *Tugas Praktikum 3*
+
 *LATIHAN 1*
+
 *LATIHAN 2*
+
 *PROGRAM*
+
 
 
 
@@ -152,7 +159,7 @@ Hasil dari screenshot program yang telah ditelah dijalankan
 
 **Selesai**
 
-Semoga Berkah dan Bermanfaat 
+Semoga Berkah dan Bermanfaat :octocat:
 
 
  
