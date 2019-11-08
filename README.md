@@ -8,9 +8,12 @@
 # ALUR ALGORITMA LATIHAN 1
 
 A. input
-Import Random
-    >>import fungsi lanjut yang dipanggil oleh statment import, sedangkan random untuk pilihan. yang berarti men
-    
+   Import Random
+    >>import fungsi lanjut yang dipanggil oleh statment import, sedangkan random untuk pilihan. yang berarti menentukan suatu pilihan yang berarti menggabungkan dua operasi.
+B. Proses
+   Jumlah = int(input("Masukan Jumlah N:) ) 
+
+   
 # LATIHAN 2
 ![lat2](https://user-images.githubusercontent.com/56963083/68419990-eaf3ef80-01cd-11ea-809c-d5133cce6f14.PNG)
 
