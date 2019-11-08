@@ -9,17 +9,19 @@ Hasil dari screenshot program yang telah dijalankan
 
 # ALUR ALGORITMA LATIHAN 1
 
-A. input
-   Import Random
-    >>import fungsi lanjut yang dipanggil oleh statment import,
+      A. input
+      Import Random
+      >>import fungsi lanjut yang dipanggil oleh statment import,
      
       sedangkan random untuk pilihan. yang berarti menentukan suatu pilihan yang berarti menggabungkan dua operasi.
 
-B. Proses
-   Jumlah = int(input("Masukan Jumlah N:) ) 
-    >>merupakan fungsi untuk menghasilkan integer. 
+      B. Proses
+      Jumlah = int(input("Masukan Jumlah N:) ) 
+      >>merupakan fungsi untuk menghasilkan integer. 
    
-    For i in range(jumlah) :
+      For i in range(jumlah) :
+
+      Merupakan fungsi
 
    
 # LATIHAN 2
