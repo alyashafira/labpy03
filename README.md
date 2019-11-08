@@ -74,8 +74,8 @@ Hasil dari screenshot program yang telah dijalankan
           break
            
            ## "while"	: disebut uncounted loop (perulangan yang tak terhitung),
-           ## "int"	: berfungsi mengkonversi bilangan maupun string angka menjadi bilangan bulat (integer).
-           ## "if"	: Bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan.
+           ## "int"	  : berfungsi mengkonversi bilangan maupun string angka menjadi bilangan bulat (integer).
+           ## "if"	  : Bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan.
            ## "break"	: fungsi yang menghentikan operasi dibawahnya jika suatu kondisi yang ditentukan telah tercapai.
        
       C. Output
@@ -91,6 +91,33 @@ Hasil dari screenshot program yang telah ditebang jalankan
 
 
 # ALUR ALGORITMA PROGRAM
+      A. Input 
+        a = 100000000
+            ##"print"	= Fungsi "print()" berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (Layar).
+            ##"a" = adalah variable dimana 100000000 adalah modal awalnya.,
+      B. Proses
+      for x in range(1,9):
+      if(x>=1 and x<=2):
+        b=a*0
+        print("Laba Bulan Ke-",x," :",b)
+      if(x>=3 and x<=4):
+        c=a*0.1
+        print("Laba Bulan Ke-",x," :",c)
+      if(x>=5 and x<=7):
+        d=a*0.5
+        print("Laba Bulan Ke-",x," :",d)
+      if(x==8):
+        e=a*0.2
+        print("Laba Bulan Ke-",x," :",e)
+      
+        ##"for x in range" = "for" perulangan yang terhitung, dan "range" mengembalikan deret integer berurut pada range yang                       ditentukan dari start sampai stop.
+        ##"if"= Bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan. Dengan fungsi ini kita bisa menjalankan suatu                  perintah dalam kondisi tertentu. 
+        ##"for"	= Perulangan yang terhitung.
+        ##"range" = Mengembalikan deret integer berurut pada range yang ditentukan dari start sampai stop.
+      C.Output
+      total = b+b+c+c+d+d+d+e
+        print("\nTotal : ", total)
+          ##"\nTotal" = Membuat garis baru, dan menampilkan total hasil dari apa yang kita inginkan.
 
 
 
