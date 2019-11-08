@@ -74,8 +74,8 @@ Hasil dari screenshot program yang telah dijalankan
           break
            
            ## "while"	: disebut uncounted loop (perulangan yang tak terhitung),
-           ## "int"	=berfungsi mengkonversi bilangan maupun string angka menjadi bilangan bulat (integer).
-           ## "if"	= Bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan.
+           ## "int"	     =berfungsi mengkonversi bilangan maupun string angka menjadi bilangan bulat (integer).
+           ## "if"	     = Bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan.
            ## "break"	: fungsi yang menghentikan operasi dibawahnya jika suatu kondisi yang ditentukan telah tercapai.
        
       C. Output
@@ -86,7 +86,8 @@ Hasil dari screenshot program yang telah dijalankan
 
 # PROGRAM
 ** Code Program **
-a=1
+a=100000000
+for x in range(1, 9):
 
 
 Hasil dari screenshot program yang telah ditebang jalankan
