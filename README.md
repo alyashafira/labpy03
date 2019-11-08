@@ -10,8 +10,10 @@
 A. input
    Import Random
     >>import fungsi lanjut yang dipanggil oleh statment import, sedangkan random untuk pilihan. yang berarti menentukan suatu pilihan yang berarti menggabungkan dua operasi.
+
 B. Proses
    Jumlah = int(input("Masukan Jumlah N:) ) 
+    >>merupakan fungsi untuk menghasilkan integer. 
 
    
 # LATIHAN 2
