@@ -148,7 +148,7 @@ Hasil dari screenshot program yang telah ditelah dijalankan
         e=a*0.2
         print("Laba Bulan Ke-",x," :",e)
       
-        ##"for x in range" = "for" perulangan yang terhitung, dan "range" mengembalikan deret integer berurut pada range yang                       ditentukan dari start sampai stop.
+        ##"for x in range" = "for" perulangan yang terhitung, dan "range" mengembalikan deret integer berurut pada range yang                      ditentukan dari start sampai stop.
         ##"if"= Bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan. Dengan fungsi ini kita bisa menjalankan suatu                  perintah dalam kondisi tertentu. 
         ##"for"	= Perulangan yang terhitung.
         ##"range" = Mengembalikan deret integer berurut pada range yang ditentukan dari start sampai stop.
