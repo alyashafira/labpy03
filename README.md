@@ -156,6 +156,11 @@ Hasil dari screenshot program yang telah ditelah dijalankan
       total = b+b+c+c+d+d+d+e
         print("\nTotal : ", total)
           ##"\nTotal" = Membuat garis baru, dan menampilkan total hasil dari apa yang kita diinginkan
+          
+# FLOWGORITHM LATIHAN 1
+
+
+# FLOWGORITHM LATIHAN 2
 
 
 **Selesai**
