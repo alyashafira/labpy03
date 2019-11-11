@@ -159,8 +159,12 @@ Hasil dari screenshot program yang telah ditelah dijalankan
           
 # FLOWGORITHM LATIHAN 1
 
+![flowgorithm latihan 1](https://user-images.githubusercontent.com/56963083/68589219-eb3a0680-04bd-11ea-891f-1e30817302ea.PNG)
 
 # FLOWGORITHM LATIHAN 2
+
+![flowgorithm latihan 2](https://user-images.githubusercontent.com/56963083/68589232-f2611480-04bd-11ea-862c-30595ce30821.PNG)
+
 
 
 **Selesai**
